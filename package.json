@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate-sass",
+  "version": "1.0.0",
+  "description": "A boilerplate for my web projects, It was getting annoying to create these files again and again. So, I created this repository",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w ./assets/stylesheets/style.scss ./assets/stylesheets/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaharshivam/Boilerplate-sass.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Sass",
+    "Flexbox",
+    "Grid"
+  ],
+  "author": "Shivam Chahar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaharshivam/Boilerplate-sass/issues"
+  },
+  "homepage": "https://github.com/chaharshivam/Boilerplate-sass#readme"
+}
