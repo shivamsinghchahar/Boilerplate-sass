@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/chaharshivam/Boilerplate-sass/issues"
   },
-  "homepage": "https://github.com/chaharshivam/Boilerplate-sass#readme"
+  "homepage": "https://github.com/chaharshivam/Boilerplate-sass#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
 }
